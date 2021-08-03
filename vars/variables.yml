@@ -4,7 +4,6 @@ packages:
 - php
 - postfix
 - dovecot
-- squirrelmail
 
 hostname: correo.ejemplo.com.uy
 domain: ejemplo.com.uy
